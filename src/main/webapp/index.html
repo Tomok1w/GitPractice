@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>トップメニュー</title>
 </head>
 <body>
 	<h3>トップメニュー</h3>
